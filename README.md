@@ -8,7 +8,7 @@
 
 ![Dashboard Preview](preview.png)
 
-> 📄 **[View Full Dashboard (PDF)](HDJV_Environmental_Dashboard.pdf)**
+> 📄 **[View Full Dashboard (PDF)](WMS_Compliance_Dashboard.pdf)**
 
 ---
 
@@ -119,7 +119,7 @@ P4 Total Volume = CALCULATE(SUM(WasteLog[Volume_kg]), WasteLog[Package] = "P4")
 2. Open the `.pbix` file in Power BI Desktop (free download at powerbi.microsoft.com/desktop)
 3. If prompted to reconnect data → click **Transform Data** → update the Excel file path → **Close & Apply**
 
-Or just view the **[PDF export](HDJV_Environmental_Dashboard.pdf)** directly — no Power BI required.
+Or just view the **[PDF export](WMS_Compliance_Dashboard.pdf)** directly — no Power BI required.
 
 ---
 
