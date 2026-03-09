@@ -125,7 +125,7 @@ Or just view the **[PDF export](HDJV_Environmental_Dashboard.pdf)** directly —
 
 ## Related Project
 
-This dashboard is the analytics layer on top of the **[HDJV Waste Management System (WMS)](https://github.com/francisalbertespina-spec/Waste-log-V5)** — a Progressive Web App built with vanilla JavaScript and Google Apps Script that field workers use to log waste disposal entries in real time.
+This dashboard is the analytics layer on top of the **[HDJV Waste Management System (WMS)](https://github.com/francisalbertespina-spec/Waste-log-sandbox)** — a Progressive Web App built with vanilla JavaScript and Google Apps Script that field workers use to log waste disposal entries in real time.
 
 | Layer | Technology | Purpose |
 |---|---|---|
